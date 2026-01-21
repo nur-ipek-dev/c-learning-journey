@@ -59,4 +59,33 @@ Yazdığım örnek programlar:
 - age_check.c  
 - for_loop.c  
 - for_step.c  
-- sum_to_n.c  
+- sum_to_n.c
+
+  
+## Day 04 – While, Do-While, Break & Continue
+
+Bugün C dilinde döngü çeşitlerini ve döngü kontrol ifadelerini öğrendim.
+
+Öğrendiklerim:
+
+- while döngüsü temel yapısı  
+- while ile sayaç kullanımı  
+- Kullanıcıdan alınan sayıyla çarpım tablosu (while)  
+- Azalan sayaç ile ters sayım  
+- Sonsuz döngü kavramı  
+- do–while döngüsü farkı (koşuldan önce çalışması)  
+- break kullanımı  
+- continue kullanımı  
+- break & continue birlikte örnek
+
+Yazdığım örnek programlar:
+
+- while_basic.c  
+- while_multiplication.c  
+- while_step.c  
+- while_reverse.c  
+- do_while_basic.c  
+- do_while_multiplication.c  
+- break_example.c  
+- continue_example.c  
+- break_continue_example.c
