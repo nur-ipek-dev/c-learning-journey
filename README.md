@@ -36,3 +36,27 @@ Bugün C dilinde temel operatörleri ve kullanıcıdan veri almayı öğrendim.
 
 Not:
 - Karşılaştırma ve mantıksal operatörler 1 (true) veya 0 (false) döndürür.
+
+
+## Day 03 – If Else ve For Döngüsü
+
+Bugün C dilinde karar yapıları ve döngüler üzerinde çalıştım.
+
+Öğrendiklerim:
+- if – else temel yapısı  
+- İki sayıyı karşılaştırma  
+- En büyük sayıyı bulma  
+- Tek / çift sayı kontrolü  
+- Yaş kontrolü (oy kullanabilir mi)  
+- for döngüsü temel kullanımı  
+- 1’den n’e kadar sayıların toplamını bulma  
+
+Yazdığım örnek programlar:
+- if_else_basic.c  
+- compare_two_numbers.c  
+- max_number.c  
+- odd_even.c  
+- age_check.c  
+- for_loop.c  
+- for_step.c  
+- sum_to_n.c  
